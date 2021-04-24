@@ -7,5 +7,7 @@ This is is an ongoing project to create an online finite state automaton visuali
  - [ ] Implement canvas: camera?
  - [ ] Implement states & edge interactions
  - [ ] Implement DFA
+ - [ ] Implement exporting finite automaton via .png, .svg, tikz
  - [ ] Implement NFA
  - [ ] Implement PDA
+ - [ ] 
